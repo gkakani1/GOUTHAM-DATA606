@@ -262,7 +262,7 @@ heatmap in feature selection.
 
 <div class="cell markdown">
 
-\(\rightarrow\) I will be using supervised learning techniques in my
+-> I will be using supervised learning techniques in my
 algorithm
 
 -> As of now I think of two different techniques to design
