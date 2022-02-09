@@ -127,12 +127,11 @@ possible to make desirable profit?
 Below are the datasets which I require for this project and their
 details.
 
-### 1)Monthly farm prices of different cops at different states across the country.
+### 1)Monthly data of different perishable cops at different states across the country.
 
 
 -> Note: - In my project I am taking top 10 most produced
-perishable crop datasets from Jan 2020 till Dec 2021 into consideration
-and work on them.
+perishable crop datasets from January 2011 till December 2020.
 
 
 -> Source: - National Horticulture Board of India
@@ -161,7 +160,7 @@ consists of 6 attributes, namely
 
   - Total Arrival: - Arrival in metric tons(1000)
 
-### 2)Monthly weather report of each and every sate in India from 2010 to 2020.
+### 2)Monthly historical weather and soil report of each sate in India from January 2010 till December 2020.
 
 
 -> Source: - NASA’s Data Access Viewer: - Its Provides
