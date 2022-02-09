@@ -45,7 +45,7 @@ after harvest or production. Most of these crops must be traded with in
 1-2 weeks of harvesting. Through this capstone project I am planning to
 design a model which can suggest a particular state in India about
 what are the best set of states to trade a particular crop. If a
-particular crop is expected to get exported the algorithm should suggest
+particular crop is expected to get exported the model should suggest
 the states to trade with for high profit margins or else in case of
 importing a perishable food crop the suggestions should be made to
 minimize the import price of the crop.
@@ -243,7 +243,7 @@ perishable food crop associated with individual sates (29) in India .
 
 <div class="cell markdown">
 
--> I am thinking to use historical weather data attributes
+-> I am thinking to use historical weather data and soil report attributes
 in predicting the farm price of a perishable food crop. I am planning to
 select the features after doing exploratory data analysis. I am going to
 consider the factors such as number of null values for a given feature,
