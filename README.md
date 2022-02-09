@@ -84,7 +84,7 @@ government can plan imports and exports across the country to increase
 farm profitability. Trade plays a crucial role in providing livelihoods
 for farmers and people employed along the food supply chain. A
 well-planned trade model in case of exports will bring good revenue for
-sate government and farm price for their crop. The government can also
+sate government and high profit margins to the farmers for their crop. The government can also
 estimate the set of states to import a perishable to minimize
 the import price as much as they can.
 
