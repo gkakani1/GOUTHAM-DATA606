@@ -78,9 +78,8 @@ conditions which in turn effects the crop production. I am choosing
 perishable crops (Mostly fruits and vegetables) because unlike cash
 crops perishable crops should be transported and use within 1-2 weeks of
 harvesting. As seasonal weather forecast for is more reliable, I want to
-build a model such that both government and farmers can plan efficiently
-to reach their desirable margins. Using this recommendation system
-government can plan imports and exports across the country to increase
+build a model such that government can plan their perishable crop trade for a season efficiently
+. Using this recommendation system government can plan imports and exports across the country to increase
 farm profitability. Trade plays a crucial role in providing livelihoods
 for farmers and people employed along the food supply chain. A
 well-planned trade model in case of exports will bring good revenue for
