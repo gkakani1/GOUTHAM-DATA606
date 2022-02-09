@@ -1,2 +1,0 @@
-
-# DATA_606 CAPSTONE
