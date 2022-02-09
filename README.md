@@ -43,7 +43,7 @@
 Perishable foods such as fruits and vegetables have a limited self-life
 after harvest or production. Most of these crops must be traded with in
 1-2 weeks of harvesting. Through this capstone project I am planning to
-design an algorithm which can suggest a particular state in India about
+design a model which can suggest a particular state in India about
 what are the best set of states to trade a particular crop. If a
 particular crop is expected to get exported the algorithm should suggest
 the states to trade with for high profit margins or else in case of
