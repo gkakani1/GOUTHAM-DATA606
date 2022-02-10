@@ -2,7 +2,7 @@
 
 # DATA 606: Capstone in Data Science
 
-## 1.1) What is your issue of interest (provide sufficient background information)? <a id ="1.1"></a>
+## 1.1)  What is your issue of interest (provide sufficient background information)? <a id ="1.1"></a>
 
 </div>
 
