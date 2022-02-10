@@ -2,41 +2,6 @@
 
 # DATA 606: Capstone in Data Science
 
-</div>
-
-<div class="cell markdown" id="3xTRJYl8HuNt">
-
-## Contents
-
-## 1\) Draft Proposal
-
-### 1.1 <a href='#1.1'>What is your issue of interest (provide sufficient background information)?</a>
-
-### 1.2 <a href='#1.2'> Why is this issue important to you and/or to others?</a>
-
-### 1.3 <a href='#1.3'>What questions do you have in mind and would like to answer?</a>
-
-### 1.4 <a href='#1.4'>Where do you get the data to analyze and help answer your questions (creditability of source, quality of data, size of data, attributes of data. etc.)?</a>
-
-### 1.5 <a href='#1.5'>What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?</a>
-
-### 1.6 <a href='#1.6'>What variables/measures do you plan to use in your analysis (variables should be tied to the questions in \#3)?</a>
-
-### 1.7 <a href='#1.7'>What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?</a>
-
-### 1.8 <a href='#1.8'>How you plan to develop/apply ML and how you evaluate/compare the performance of the models?</a>
-
-### 1.9 <a href='#1.9'>What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practicle applications, etc)?</a>
-
-</div>
-
-<div class="cell markdown" id="_43N8-uiJWM7">
-
-## 1.1) What is your issue of interest (provide sufficient background information)? <a id ="1.1"></a>
-
-</div>
-
-<div class="cell markdown">
 
 ### Aim: - Suggesting best trading option for a perishable food crop for a state among the states across India.
 
