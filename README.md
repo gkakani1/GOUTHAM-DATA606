@@ -100,22 +100,22 @@ details.
 ### 1)Monthly data of different perishable cops at different states across the country.
 
 
--> Note: - In my project I am taking top 10 most produced
+1.1) Note: - In my project I am taking top 10 most produced
 perishable crop datasets from January 2011 till December 2020.
 
 
--> Source: - National Horticulture Board of India
+1.2) Source: - National Horticulture Board of India
 
--> Link: -
+1.3) Link: -
 <http://nhb.gov.in/OnlineClient/MonthlyPriceAndArrivalReport.aspx?enc=3ZOO8K5CzcdC/Yq6HcdIxJ4o5jmAcGG5QGUXX3BlAP4=>
 
 
--> Link to Dataset in my Google Drive(Anyone from UMBC
+1.4) Link to Dataset in my Google Drive(Anyone from UMBC
 group can access it): -
 <https://drive.google.com/drive/folders/1OxtPZU1gt_ehgOiGhl_hpdmPWlvjO2ZW?usp=sharing>
 
 
--> Attributes of the datasets: - Each individual dataset
+1.5) Attributes of the datasets: - Each individual dataset
 consists of 6 attributes, namely
 
   - Centre Name: - Name of the state
@@ -133,18 +133,18 @@ consists of 6 attributes, namely
 ### 2)Monthly historical weather and soil report of each sate in India from January 2010 till December 2020.
 
 
--> Source: - NASA’s Data Access Viewer: - Its Provides
+2.1) Source: - NASA’s Data Access Viewer: - Its Provides
 solar and meteorological data sets from NASA research for support of
 renewable energy, building energy efficiency and agricultural needs.
 
 
--> Link: -
+2.2) Link: -
 <https://power.larc.nasa.gov/data-access-viewer/>
--> Link to Dataset in my Google Drive(Anyone from UMBC
+2.3) Link to Dataset in my Google Drive(Anyone from UMBC
 group can access it):-
 <https://drive.google.com/drive/folders/15zXCuLByVlfpdg5eg_yfT2qBmqdDHeif?usp=sharing>
 
--> Attributes of the Datasets: -
+2.4) Attributes of the Datasets: -
 
   - All Sky Surface PAR Total:- The total Photosynthetically Active
     Radiation (PAR) incident on a horizontal plane at the surface of the
@@ -200,7 +200,7 @@ group can access it):-
 
 <div class="cell markdown">
 
--> My unit of analysis is the farm price data of a
+ My unit of analysis is the farm price data of a
 perishable food crop associated with individual sates (29) in India .
 
 </div>
@@ -213,7 +213,7 @@ perishable food crop associated with individual sates (29) in India .
 
 <div class="cell markdown">
 
--> I am thinking to use historical weather data and soil report attributes
+ I am thinking to use historical weather data and soil report attributes
 in predicting the farm price of a perishable food crop. I am planning to
 select the features after doing exploratory data analysis. I am going to
 consider the factors such as number of null values for a given feature,
@@ -230,16 +230,17 @@ heatmap in feature selection.
 
 <div class="cell markdown">
 
--> I will be using supervised learning techniques in my
+1) I will be using supervised learning techniques in my
 algorithm
 
--> As of now I think of two different techniques to design
-the model
-
+  
   - Using Multi-Class Classification Algorithms: I will try to train my
     model using multi-class classification machine learning algorithms
     such as k-Nearest Neighbor’s, Decision Trees, Naive Bayes etc...
-
+  
+2) As of now I think of two different techniques to design
+the model
+  
   - Using regression methods: Training my model using regression
     algorithms such as Neural Network Regression or LASSO regression
     etc...
@@ -254,7 +255,7 @@ the model
 
 <div class="cell markdown">
 
--> For Multi-Class classification: - Under this Multi-Class
+1) For Multi-Class classification: - Under this Multi-Class
 classification I plan to divide the farm price of each crop into 3 or 4
 different slabs such as high profit margin, low profit margin or loss
 and predict under which slab a particular crop can fall given all the
@@ -263,7 +264,7 @@ confusion matrix to compare the performance of models using Precision
 and Recall values. I can also use the F1 score to compare the
 performance among trained models.
 
--> Using regression methods: - My second thought is to use
+2) Using regression methods: - My second thought is to use
 regression algorithms to train my model and predict the farm price of a
 perishable food crop. To choose the best regression model I can use
 metrics such as Correlation Coefficient or Mean Square Error and Mean
@@ -279,7 +280,7 @@ Absolute Error.
 
 <div class="cell markdown" id="jmo5Z4P1Hktq">
 
--> After traing my model I aim to suggest the best states
+ After traing my model I aim to suggest the best states
 to trade with for a pirticular crop in a specific state. I am planning
 to use different chart and plots using visualization tools such as
 Matplotlib, Seaborn to make it much effective.
