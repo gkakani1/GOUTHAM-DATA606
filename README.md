@@ -230,18 +230,18 @@ heatmap in feature selection.
 
 <div class="cell markdown">
 
-1) I will be using supervised learning techniques in my
-algorithm
+I will be using supervised learning techniques in my
+algorithm. As of now I think of two different techniques to design
+the model
 
   
-  - Using Multi-Class Classification Algorithms: I will try to train my
+  1) Using Multi-Class Classification Algorithms: I will try to train my
     model using multi-class classification machine learning algorithms
     such as k-Nearest Neighbor’s, Decision Trees, Naive Bayes etc...
   
-2) As of now I think of two different techniques to design
-the model
+
   
-  - Using regression methods: Training my model using regression
+  2) Using regression methods: Training my model using regression
     algorithms such as Neural Network Regression or LASSO regression
     etc...
 
