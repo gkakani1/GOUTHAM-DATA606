@@ -22,9 +22,9 @@ minimize the import price of the crop.
 
 ### Other Issues that can be addressed: -
 
--> Predicting most profitable crop for that season
+1) Predicting most profitable crop for that season
 
--> Helping traders to make high profit margins
+2) Helping traders to make high profit margins
 
 </div>
 
@@ -67,10 +67,10 @@ the import price as much as they can.
 
 <div class="cell markdown">
 
--> What are the best set of sates to export a perishable
+1) What are the best set of sates to export a perishable
 food crop for higher food margins?
 
--> What are the best set of states to import a perishable
+2) What are the best set of states to import a perishable
 crop at lower price?
 
 -> What is the best perishable food crops to plant in a
