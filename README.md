@@ -73,13 +73,13 @@ food crop for higher food margins?
 2) What are the best set of states to import a perishable
 crop at lower price?
 
--> What is the best perishable food crops to plant in a
+3) What is the best perishable food crops to plant in a
 particular season at a particular state?
 
--> For a particular vegetable or food crop in a particular
+4) For a particular vegetable or food crop in a particular
 season what can be the highest expected farm price?
 
--> For a particular crop at a particular season is it
+5) For a particular crop at a particular season is it
 possible to make desirable profit?
 
 </div>
@@ -188,7 +188,7 @@ group can access it):-
     indicates a completely saturated soil; where profile is the layer
     from the surface down to the bedrock.
 
--> Total data size: 50MB
+
 
 </div>
 
