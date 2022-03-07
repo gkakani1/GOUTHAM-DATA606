@@ -2,25 +2,13 @@
 
 # DATA 606: Capstone in Data Science
 
-## 1.1)  What is your issue of interest (provide sufficient background information)? <a id ="1.1"></a>
-
-</div>
 
 <div class="cell markdown">
 
-### Aim: - Suggesting best trading option for a perishable food crop for a state among the states across India.
+### Topic:-  Suggesting best trading option for a perishable food crop for a state among the states across India.
 
-Perishable foods such as fruits and vegetables have a limited self-life
-after harvest or production. Most of these crops must be traded with in
-1-2 weeks of harvesting. Through this capstone project I am planning to
-design a model which can suggest a particular state in India about
-what are the best set of states to trade a particular crop. If a
-particular crop is expected to get exported the model should suggest
-the states to trade with for high profit margins or else in case of
-importing a perishable food crop the suggestions should be made to
-minimize the import price of the crop.
 
-### Other Issues that can be addressed: -
+### Instructor :-  Dr. Chaojie Wang (Jay)
 
 1) Predicting most profitable crop for that season
 
